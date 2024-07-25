@@ -42,3 +42,28 @@ Aunque no se aplicó aumento de datos en este proyecto, se identificó como una 
 ## Resultados
 -  Precisión: Uno de los modelos alcanzó una precisión superior al 90% en el conjunto de validación.
 -  Visualizaciones: Se generaron gráficos de líneas que muestran el progreso del entrenamiento y una matriz de confusión que ilustra el rendimiento del clasificador en cada categoría.
+
+<h2> Mas de mis proyectos: </h2>
+
+<table>
+  <tr>
+    <td>
+      <p align="center">Enacom-Comunicaciones</p>
+      <a href="https://github.com/IsmaDeveloper16/Enacom-Comunicaciones">
+        <img src="https://www.enacom.gob.ar/multimedia/noticias/N/202104/archivo_20210414032123_6165_720x447.jpg" alt="Enacom-Comunicaciones" width="500" height="300">
+      </a>
+    </td>
+    <td>
+      <p align="center"> NewYorkDrive </p>
+      <a href="https://github.com/IsmaDeveloper16/Proyecto-final">
+        <img src="https://cnnespanol.cnn.com/wp-content/uploads/2022/03/220324090854-02-nyc-taxi-cab-file-full-169.jpg?quality=100&strip=info" alt="NewYorkDrive" width="500" height="300">
+      </a>
+    </td>
+    <td>
+      <p align="center">STEAM-GAMES</p>
+      <a href="https://github.com/IsmaDeveloper16/Steam-games">
+        <img src="https://cdn.akamai.steamstatic.com/store/home/store_home_share.jpg" alt="STEAM-GAMES" width="500" height="300">
+      </a>
+    </td>
+  </tr>
+</table>
