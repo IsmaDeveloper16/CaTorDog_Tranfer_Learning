@@ -36,5 +36,9 @@ Aunque no se aplicó aumento de datos en este proyecto, se identificó como una 
 -  Visualizaciones: Se crearon gráficos utilizando matplotlib y seaborn para visualizar el rendimiento del modelo durante el entrenamiento, incluyendo gráficos de líneas por épocas y una matriz de confusión para evaluar la precisión de las clasificaciones.
 
 <p align="center">
-  <img src="https://github.com/IsmaDeveloper16/CaTorDog_Tranfer_Learning/blob/main/Proyecto%20CatorDog/imagenes/Presentaci%C3%B3n%20Inteligencia%20Artificial%20Tecnol%C3%B3gica%20Ilustrada%20Azul%20y%20Amarillo%20(1).gif" width="800" height="400" />
+  <img src="https://github.com/IsmaDeveloper16/CaTorDog_Tranfer_Learning/blob/main/Proyecto%20CatorDog/imagenes/Presentaci%C3%B3n%20Inteligencia%20Artificial%20Tecnol%C3%B3gica%20Ilustrada%20Azul%20y%20Amarillo%20(2).png" width="800" height="400" />
 </p>
+
+## Resultados
+-  Precisión: Uno de los modelos alcanzó una precisión superior al 90% en el conjunto de validación.
+-  Visualizaciones: Se generaron gráficos de líneas que muestran el progreso del entrenamiento y una matriz de confusión que ilustra el rendimiento del clasificador en cada categoría.
